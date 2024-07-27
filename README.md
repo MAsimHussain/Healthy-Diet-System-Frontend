@@ -40,5 +40,5 @@ The Healthy Diet System is a web application designed to help users maintain a w
 1. **Clone the repository:**
 
    ```bash
-   git clone https://github.com/your-username/healthy-diet-system.git
+   git clone https://github.com/MAsimHussain/Healthy-Diet-System-Frontend.git
    cd healthy-diet-system
