@@ -1,4 +1,4 @@
-# Healthy Diet System
+# Healthy Diet System Frontend
 
 ## Overview
 
